@@ -1,0 +1,67 @@
+#navigation-bar{
+  background-color: #91091e;
+  color: white;
+}
+font-weight: bold;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+#Insulin-Calculator{
+  background-color: #AA182C;
+  color: white;
+}
+.insulin{
+  width:85%;
+  margin-left: 15%;
+}
+.injection{
+  width:85%;
+  margin-right: 15%;
+}
+.container-fluid{
+  padding: 1% 7% 1% 7%;
+}
+.heading{
+  padding:3% 5% 2% 5%;
+}
+.head{
+  color: #91091e;
+  font-weight: bold;
+  font-size: 3.5rem;
+}
+.paragraph{
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.btn{
+  margin-right: 2rem;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-weight: 100;
+}
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.diabetespic{
+  position: absolute;
+  width: 60%;
+}
+.calculate{
+  text-align: center;
+  padding: 7% 7% 7% 3%;
+}
+/* Footer */
+#footer{
+  text-align: center;
+  padding:3%;
+}
+.social{
+  margin: 0.75rem;
+}

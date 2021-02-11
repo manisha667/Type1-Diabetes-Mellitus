@@ -1,0 +1,13 @@
+.username{
+  position:absolute;
+  background-color: white;
+  width:40%;
+  padding:2rem;
+  padding-top:1rem;
+  margin-left: 56%;
+  margin-top: 10%;
+  color: black;
+}
+.btn{
+  margin-top: 1rem;
+}
